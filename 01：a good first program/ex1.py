@@ -1,4 +1,4 @@
-print("Hello World!)
+print("Hello World!") #如果可以就养成个习惯用双引号, 因为有时在一句话里需要用的单引号.
 print("Hello Again")
 print("I Like Type This.")
 print("This is fun!")
